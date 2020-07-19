@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\bin\Debug\tizen40\ArtRate_Monitor.deps.json
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\bin\Debug\tizen40\ArtRate_Monitor.dll
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\bin\Debug\tizen40\ArtRate_Monitor.pdb
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\ArtRate_Monitor.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\ArtRate_Monitor.Resources.AppResources.resources
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\ArtRate_Monitor.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\App.xaml.g.cs
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\AppShell.xaml.g.cs
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\Views\CenterLayoutPage.xaml.g.cs
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\Views\Config.xaml.g.cs
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\Views\Connect.xaml.g.cs
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\ArtRate_Monitor.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\ArtRate_Monitor.AssemblyInfo.cs
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\ArtRate_Monitor.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\XamlC.stamp
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\ArtRate_Monitor.dll
+C:\Users\hp\source\repos\Tizen\ArtRate_Monitor\obj\Debug\tizen40\ArtRate_Monitor.pdb

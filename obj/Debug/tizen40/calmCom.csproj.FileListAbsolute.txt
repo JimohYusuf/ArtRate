@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Debug\tizen40\calmCom.deps.json
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Debug\tizen40\calmCom.dll
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Debug\tizen40\calmCom.pdb
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\calmCom.Resources.AppResources.resources
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\calmCom.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\App.xaml.g.cs
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\AppShell.xaml.g.cs
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\Views\CenterLayoutPage.xaml.g.cs
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\Views\Config.xaml.g.cs
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\Views\Connect.xaml.g.cs
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\calmCom.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\calmCom.AssemblyInfo.cs
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\calmCom.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\XamlC.stamp
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\calmCom.dll
+C:\Users\hp\source\repos\Tizen\calmCom\obj\Debug\tizen40\calmCom.pdb

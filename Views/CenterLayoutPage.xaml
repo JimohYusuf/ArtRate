@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="ArtRate_Monitor.Views.CenterLayoutPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:c="clr-namespace:Tizen.Wearable.CircularUI.Forms;assembly=Tizen.Wearable.CircularUI.Forms"
+    xmlns:res="clr-namespace:ArtRate_Monitor.Resources"
+    Title="ContentPage">
+    <ContentPage.Content>
+        <StackLayout Margin="0, 20, 0, 20" VerticalOptions="FillAndExpand">
+            <Image Source="layout_image.png" /> 
+            <Label
+                x:Name="heartRate"
+                Text="{Binding HeartRateVal}"  
+                TextColor="GreenYellow"  
+                HorizontalOptions="CenterAndExpand"/>
+            <Button Text="Start" Command="{Binding StartHRSensorService}"/>
+            <Button Text="Stop" Command="{Binding StopHRSensorService}"/> 
+        </StackLayout>
+    </ContentPage.Content> 
+</ContentPage>

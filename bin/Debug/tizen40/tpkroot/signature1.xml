@@ -1,0 +1,156 @@
+<Signature Id="DistributorSignature" xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>zgDNcGTvqn0pEVhOaUma309iL7U3fq6p86WXt7xIHNE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FSplashScreen.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>ukTtDn5sKoFzCamEoE7WmAAOEIyVvk197gjdyJCyugE=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FcalmCom.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>NLJBAqbWaz+EQDYIKgiRctcRxnwepNCzmVzDgM/dORY=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2Fapp_icon.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>qjlSvCh4Q3QrLNjYmEALTQjd+uuft2xCHI68zDpP/C0=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Ftizen-circular-ui-theme.edj">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>wz3BtEhfwzDSLF7c67YstbHHnt1B6FEvrUpB3TBeEP0=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fsplash_screen.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>/k+4loshwRJH/gBkR3C1n6kR63x1OLrrMPFQBbUCPZw=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Flayout_image.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>NfyTJEt8efKof1oFfKWXj0wYxlX+BqdEqGmyDQHE80o=</DigestValue>
+    </Reference>
+    <Reference URI="res%2FCenterLayoutSample.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>acFiXqFdIrdiuU5l5bMGgjYzFVu/gnI+F2x1wtrVRQo=</DigestValue>
+    </Reference>
+    <Reference URI="res%2Fapp_icon.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>/k+4loshwRJH/gBkR3C1n6kR63x1OLrrMPFQBbUCPZw=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FXamarin.Forms.Xaml.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>+lCPt+nS8QSGBD0TXSX10HcG4oPmw2qZaBABmfGZmU8=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FXamarin.Forms.Platform.Tizen.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>yWpvy7wJOd4a7Tet9b2fpIiyOTd87JaG+RrGOcWIhf4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FXamarin.Forms.Platform.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>+WrdROnAqJq9yOwy6sMqfPTFJN6JHE5WFJFdu25J8uA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FXamarin.Forms.Core.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>6hyYxDmcUo/xfJyCWPs7BrDU2ClVQn6HwhFSglUf/ns=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.Wearable.CircularUI.Forms.Renderer.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>wZsk7u+9dYBcm8o/q0q0c3xFAU+Kcw5cj/ePqM+UWfQ=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FTizen.Wearable.CircularUI.Forms.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>KZ8vOuiWMnvJV8OxmB45eHl6J3qX+w/Ozs1LngdALZs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FNewtonsoft.Json.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>mRd6TL4DYldo1ko9czkjEDcoiPdMPrJxz3dekwV6OOY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FArtRate_Monitor.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>Q9Q9yU969OY6DYqQ8dmU5BCw9Z1jKs+m7dSK2j0kkjs=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FArtRate_Monitor.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>wevkAyxFqxlKsI1zGv/48cfJl1Q47l0LFLGLORRMZBc=</DigestValue>
+    </Reference>
+    <Reference URI="author-signature.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>N0UPA+qj8hVjV2obnPAOrpdle/XlT4KREgaAjXLVbJE=</DigestValue>
+    </Reference>
+    <Reference URI="ArtRate_Monitor.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>r2pbKb2ZdfB+wagDpBkj3kZns3CGwZr154iRzEtC6AE=</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>abSCdQC03ZcPoEN8T0eWSILDIhDi2uNziivgdw1gmmQ=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+iBtkmRZ/9RiLXPGkS5CqkrwCFPsSezWd/UAUBhScBxBmD01kC3pcvkMg72+MHLPX3F1IMGWPoKMP
+U0kqYaeg0J8aYijB9GZUx7IFxDeDJmLkp7Vv5tV80PibwUh77Al6hC3TeZV27O1kCURLHKVjf69c
+2Jhs+3W+8e6EY+3pF4hYQB2eOMvryLb764sYs9ZXI0O3FTZOivyyOOe27RPO/AtosLuXGxbLtl5Y
+tyrtgxyuA0NyXts04EuZ0iUZliVTC9pEahk8JlAFnC9ZpR/8GS0AKmzzj3a/3puW3RCJm+7KzoHr
+qRVta1ZgejEcbLFAXZQRTKZ0TmlFgoGMZnRIfw==
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIID5TCCAs2gAwIBAgIBZTANBgkqhkiG9w0BAQ0FADCBnjELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xDzANBgNVBAsMBk1vYmlsZTEwMC4GA1UEAwwnU2Ftc3VuZyBUaXplbiBERVZF
+TE9QRVIgUHVibGljIENBIENsYXNzMB4XDTIwMDcxOTE0NTQzMFoXDTIxMDcxOTE0NTQzMFowczER
+MA8GA1UEAwwIVGl6ZW5TREsxCTAHBgNVBAsMADEJMAcGA1UECgwAMQkwBwYDVQQHDAAxCTAHBgNV
+BAgMADEJMAcGA1UEBhMAMScwJQYJKoZIhvcNAQkBFhhueXVhZC5yaXNjLmxhYkBnbWFpbC5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDqf/812P3YDCTPb9GVt+j9gqwYTuH8obWd
+PRDOJ1HWo7U7HcAwhNeEmEqV/0WcK8fj1cBKxd4hfvt5u5j/s3gynjhc+l1UyS2dWhTEQlk8n6gd
+6PxA0/PjV0c3IYOeqNiEuiqm8jnkOhdAQQilzUEQACDsjMvVZH6UaTRIzFtAODMQ7hmWqxC9krS+
+OGlOTvsC9TbeXAx11Yf3R8r4RBuzqkZ3cBESOSPiyv1YJOoUVYa3JEfzlqjOgeUI2LrdgCPbXbV+
+KRJh3X2/20cRLt5k09f64AsMdhRpIj+8oEWF6WM7ejKVrAv4AodU2apECclLC3jR5+28ijm2yA9U
+BYhTAgMBAAGjWDBWMFQGA1UdEQRNMEuGFFVSTjp0aXplbjpwYWNrYWdlaWQ9hjNVUk46dGl6ZW46
+ZGV2aWNlaWQ9Mi4wI0VuQjRIZlRSb0lWNjQzcUxXaEdhdjBTQkdZST0wDQYJKoZIhvcNAQENBQAD
+ggEBABHA9b0cXFSZTVu6MoYDibIu589OT/ruLzqFTA94+1yHVJ5OMTs3xud4c1EP+hd4mdawO7qX
+mkO0sy109WMOzLNupha+rN6ZvypmQO9gBPzH5Eh0+dzTvnp1vs5wcAF9pJZGyMWUYcwGWS6wwWCw
+MjGmzgvZ+Fse1zZU3Ttijtkq6aNYRwclN9pIF27nNYFzv4FizfXfeC6yGekhVcghzofh2CMFtfWZ
+Bv1r5eFvKRQCzKH+Pg70J4iPEYxqDBB8y+4+Ttk0j6Sa+jAqXjoVQMEibSIubaF/2CwvqzmdW+p0
+e2IN+eKqCAJJrRR2N8HbCmPH26RJDScqxkuA8iH6lSs=
+</X509Certificate>
+      <X509Certificate>
+MIIDuzCCAqOgAwIBAgICL+cwDQYJKoZIhvcNAQELBQAwgY8xCzAJBgNVBAYTAktSMRQwEgYDVQQI
+DAtTb3V0aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25p
+Y3MgQ28uLCBMdGQuMTIwMAYDVQQDDClTYW1zdW5nIFRpemVuIERFVkVMT1BFUiBQdWJsaWMgUm9v
+dCBDbGFzczAeFw0xMzEyMzAxNTAxNDdaFw0yODEyMjYxNTAxNDdaMIGeMQswCQYDVQQGEwJLUjEU
+MBIGA1UECAwLU291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVs
+ZWN0cm9uaWNzIENvLiwgTHRkLjEPMA0GA1UECwwGTW9iaWxlMTAwLgYDVQQDDCdTYW1zdW5nIFRp
+emVuIERFVkVMT1BFUiBQdWJsaWMgQ0EgQ2xhc3MwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCkqW9d0zO5NFOc7u164DKe9Yx+yEgUnsbhnJasqHaqT71qaMxyCOjyysZi7gGycDcgmLcU
+tr2wSMTGWPibK8SrJ8bV/J1cy9nTpljM3s+lbPIVVxZeufhJkU79tXImHLolERd0vui+rj0Xpd9O
+zlyNTRt0+PWVT1taWcbfHL7pUD25hMkTc8C3bC+dUoT1/RhCkXgmUvIor3EnnU0rBtAl4qNtg5y1
+7RLT8dyicieAHCcW923YC/ngMZxnBjbL2Ht1RBUvrL6K3X5+l0VeF4qC3g7TKm/a/SGjq12ZD4sc
+7rglzjSNlTVSGag6/2WkqxE6HheEBWaloYOdauzwydFNAgMBAAGjEDAOMAwGA1UdEwQFMAMBAf8w
+DQYJKoZIhvcNAQELBQADggEBAG88wKjKeTbj5I6wMEvRihd+gWrESJX3bXUSlHWjUfYKcvg3GzM9
+cdooscqJdYgN8ezQuYiJQRk7BaPHSlPGkchsPUjvSM6WvIn9IT+VsEuVBrZNbZMSv6lM6wNig3TE
+h2OxFTW6Bt8mCZB74EP2wb+39Fr5aJwWvmkxQjct3/O+GYPQhe0Lu1qpbbMhzafYYybSmO+om02V
+cTWyJ/vtLUNyGfN7aHyBm6PFE5piAfpBaO9Az+zWil1HOsnzu1tGGnyV6IzQ/UiIo5P2sD8I5lEO
+Xdf9Eicy9y5z2Ci2zrmDcAGWL8o5wOWrCqML2ijximFzyQ/swlMC9xBIX9RCFws=
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#DistributorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile" />
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#DistributorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-distributor" />
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#DistributorSignature">
+        <dsp:Identifier />
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>

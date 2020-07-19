@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\bin\calmCom.dll
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\bin\calmCom.pdb
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\bin\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.Renderer.dll
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\bin\Tizen.Wearable.CircularUI.Forms.dll
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\calmCom.deps.json
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\res\CenterLayoutSample.png
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\shared\res\calmCom.png
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\shared\res\SplashScreen.png
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\tizen-manifest.xml
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\tpkroot\res\tizen-circular-ui-theme.edj
+C:\Users\hp\source\repos\Tizen\calmCom\bin\Release\tizen40\com.example.calmCom-1.0.0.tpk
